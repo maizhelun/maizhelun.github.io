@@ -69,9 +69,11 @@ github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
-# Twitter
-# twitter_user:
-# twitter_tweet_button: true
+# duoshuo comments
+duoshuo_comments: true
+duoshuo_short_name: maizhelun
+
+weibo_share: true
 
 # Google +1
 google_plus_one: false
@@ -100,6 +102,4 @@ google_analytics_tracking_id: UA-57906310-1
 # Facebook Like
 facebook_like: false
 
- duoshuo comments
-duoshuo_comments: true
-duoshuo_short_name: maizhelun
+
